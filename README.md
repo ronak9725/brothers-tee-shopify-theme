@@ -1,2 +1,3 @@
-# brothers-tee-shopify-theme
-Shopify theme for Brothers Tee (Dark Gen-Z UI)
+# Brothers Tee Shopify Theme
+
+A Gen-Z focused dark theme for streetwear brand 'Brothers Tee'.

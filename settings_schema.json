@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Brothers Tee Settings",
+    "settings": [
+      {
+        "type": "text",
+        "id": "tagline",
+        "label": "Brand Tagline",
+        "default": "Wear It Loud. Wear It Proud."
+      }
+    ]
+  }
+]

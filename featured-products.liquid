@@ -1,0 +1,8 @@
+<section class="featured">
+  <h2>Featured Tees</h2>
+  <div class="grid">
+    {% for product in collections.frontpage.products %}
+      {% render 'product-card', product: product %}
+    {% endfor %}
+  </div>
+</section>
